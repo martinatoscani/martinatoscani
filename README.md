@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**martinatoscani/martinatoscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Astrophysicist**, exploring the distant Universe with black holes and gravitational waves. 
 
-Here are some ideas to get you started:
+📈 3+ years of experience in data science (EDA, data visualization, statistics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Organiser of international scientific workshops
+
+📊 Total number of citations: 748, h-index: 8 (to date: Jun 16th, 2025)
+
+🗣️ Presentations of my research work at international conferences
+
+👩‍🏫 Cosupervisor of 5 students (3 Bachelor's and two Master's)
+
+## Skills ✏️
+- Programming: Python (SciPy, Numpy, Pandas, Seaborn, Matplotlib), Fortran, git
+- Machine Learning and Neural Networks: (scikit-learn, TensorFlow, PyTorch)
+- Leadership: responsability roles in international collaborations
+- Communication: scientific writing, outreach
+
+## Additional info 👓
+- Languages: English (fluent), French (fluent), Spanish (beginner), Italian (native)
+
+## Contacts 📧
+[Linkedin](www.linkedin.com/in/martina-t-8b2380258)
+
+## Want to know more?
+[Portfolio](https://github.com/martinatoscani/my_portfolio)
